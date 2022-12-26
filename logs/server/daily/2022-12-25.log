@@ -1,0 +1,202 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T13:18:49.608Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T13:18:49.866Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T13:40:44.378Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T13:40:44.653Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T13:53:35.331Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T13:53:35.397Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T13:56:52.860Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T13:56:53.004Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:20:33.656Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:20:33.939Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:21:05.144Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:21:05.216Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:21:24.411Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:21:24.493Z"}
+error: 
+    status - 500 
+    message - ReferenceError: first_name is not defined
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:35:34)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:21:26.462Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:21:42.959Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:21:43.028Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:25:31.205Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:25:31.265Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:25:40.731Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:25:40.793Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:25:45.501Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:25:45.576Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:09.696Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:09.770Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:20.906Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:20.975Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:34.096Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:34.169Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:44.044Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:44.114Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:49.904Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:49.975Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:53.530Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:53.619Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:58.070Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:58.159Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:27:02.726Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:27:02.797Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:27:33.457Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:27:33.513Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:27:36.083Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:27:36.161Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:27:57.152Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:27:57.217Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:01.099Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:01.190Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:22.759Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:22.823Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:26.444Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:26.510Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:29.129Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:29.208Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:47.347Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:47.418Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:29:03.989Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:29:04.081Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:29:14.418Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:29:14.476Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:29:27.907Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:29:27.966Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:29:30.392Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:29:30.461Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:02.902Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:02.970Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:33.697Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:33.765Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:36.564Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:36.624Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:39.037Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:39.103Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:47.335Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:47.396Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:51.136Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:51.214Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:59.322Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:59.396Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:12.294Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:12.369Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:25.043Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:25.100Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:32.467Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:32.529Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:38.844Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:38.907Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:45.169Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:45.233Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:47.695Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:47.758Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:58.119Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:58.197Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:33:01.414Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:33:01.471Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:33:04.102Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:33:04.183Z"}
+error: 
+    status - 500 
+    message - ReferenceError: jwt is not defined
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:13)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:33:09.839Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:33:22.643Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:33:22.701Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:33:25.828Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:33:25.922Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'sign')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:25)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:33:28.252Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:35:13.129Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:35:13.221Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:35:17.274Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:35:17.339Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:36:17.718Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:36:17.778Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:38:47.985Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:38:48.193Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:39:01.008Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:39:01.082Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:39:26.762Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:39:26.835Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:39:33.754Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:39:33.826Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'sign')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:25)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:39:46.492Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:41:44.412Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:41:44.493Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:42:27.393Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:42:27.460Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:42:30.449Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:42:30.512Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:39.546Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:39.601Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:46.393Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:46.458Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:49.072Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:49.139Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:52.176Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:52.253Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:59.738Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:59.829Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:44:04.854Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:44:04.930Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:44:24.345Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:44:24.420Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:44:39.065Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:44:39.137Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:44:54.131Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:44:54.194Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:45:09.239Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:45:09.317Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:45:41.093Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:45:41.168Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:45:46.764Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:45:46.837Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:46:02.379Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:46:02.477Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:46:25.682Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:46:25.759Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:49:03.317Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:49:05.789Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:49:05.876Z"}

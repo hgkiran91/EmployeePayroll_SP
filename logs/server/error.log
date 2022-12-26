@@ -1,0 +1,306 @@
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:19:39.451Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:19:52.516Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:20:04.828Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:34:11.368Z"}
+error: uncaughtException: tou is not defined
+ReferenceError: tou is not defined
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/user.route.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/index.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\node\src\_babel-node.ts:223:12)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Sat Dec 24 2022 10:04:42 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1022154},"process":{"argv":["node","D:\\MySQLProject\\EmployeePayroll_SP\\src\\index.js"],"cwd":"D:\\MySQLProject\\EmployeePayroll_SP","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":656257,"external":2132191,"heapTotal":91148288,"heapUsed":70023064,"rss":129126400},"pid":20580,"uid":null,"version":"v18.10.0"},"stack":"ReferenceError: tou is not defined\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js:12:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js:4:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js:8:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts:223:12)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2022-12-24T04:34:42.878Z","trace":[{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js","function":null,"line":12,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js","function":null,"line":4,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":223,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: use is not defined
+ReferenceError: use is not defined
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/user.route.js:12:23)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/index.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\node\src\_babel-node.ts:223:12)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Sat Dec 24 2022 10:04:58 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1022170},"process":{"argv":["node","D:\\MySQLProject\\EmployeePayroll_SP\\src\\index.js"],"cwd":"D:\\MySQLProject\\EmployeePayroll_SP","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":656257,"external":2132191,"heapTotal":91148288,"heapUsed":69945048,"rss":129331200},"pid":14060,"uid":null,"version":"v18.10.0"},"stack":"ReferenceError: use is not defined\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js:12:23)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js:4:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js:8:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts:223:12)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2022-12-24T04:34:58.719Z","trace":[{"column":23,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js","function":null,"line":12,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js","function":null,"line":4,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":223,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:36:22.055Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:38:43.230Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:39:34.736Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:40:31.903Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:42:23.507Z"}
+error: 
+    status - 500 
+    message - ReferenceError: first_name is not defined
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:35:34)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:21:26.462Z"}
+error: 
+    status - 500 
+    message - ReferenceError: jwt is not defined
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:13)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:33:09.839Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'sign')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:25)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:33:28.252Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'sign')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:25)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:39:46.492Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T10:43:58.337Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T10:56:51.067Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'error_status')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:15)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T12:48:11.560Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'error_status')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:15)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T12:50:08.963Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'error_status')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:15)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T12:51:56.434Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading '0')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:12)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T15:33:30.695Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'error_status')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:15)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T15:34:04.117Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (D:\MySQLProject\EmployeePayroll_SP\node_modules\bcrypt\bcrypt.js:208:17)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (D:\MySQLProject\EmployeePayroll_SP\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (D:\MySQLProject\EmployeePayroll_SP\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:33:33)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T17:31:05.277Z"}

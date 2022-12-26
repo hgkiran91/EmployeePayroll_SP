@@ -1,0 +1,613 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T11:18:00.675Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T11:18:01.307Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:19:39.451Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:19:52.516Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:20:04.828Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:34:11.368Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:33.756Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:34.191Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:41.621Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:41.706Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:47.124Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:47.214Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:54.904Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:55.008Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:57.945Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:58.016Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:01.084Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:01.150Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:12.342Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:12.415Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:21.979Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:22.087Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:25.823Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:25.921Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:42.498Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:42.596Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:47.148Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:47.234Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:10:29.828Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:10:29.902Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:10:34.512Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:10:34.581Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:05:50.799Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:05:51.139Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:10:43.542Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:10:43.630Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:10:50.445Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:10:50.573Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:10:54.228Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:10:54.306Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:33:53.007Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:33:53.394Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:34:23.405Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:34:23.497Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:34:32.648Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:34:32.742Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:34:39.526Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:34:39.676Z"}
+error: uncaughtException: tou is not defined
+ReferenceError: tou is not defined
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/user.route.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/index.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\node\src\_babel-node.ts:223:12)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Sat Dec 24 2022 10:04:42 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1022154},"process":{"argv":["node","D:\\MySQLProject\\EmployeePayroll_SP\\src\\index.js"],"cwd":"D:\\MySQLProject\\EmployeePayroll_SP","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":656257,"external":2132191,"heapTotal":91148288,"heapUsed":70023064,"rss":129126400},"pid":20580,"uid":null,"version":"v18.10.0"},"stack":"ReferenceError: tou is not defined\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js:12:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js:4:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js:8:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts:223:12)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2022-12-24T04:34:42.878Z","trace":[{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js","function":null,"line":12,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js","function":null,"line":4,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":223,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:34:54.897Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:34:55.039Z"}
+error: uncaughtException: use is not defined
+ReferenceError: use is not defined
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/user.route.js:12:23)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/index.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\node\src\_babel-node.ts:223:12)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Sat Dec 24 2022 10:04:58 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1022170},"process":{"argv":["node","D:\\MySQLProject\\EmployeePayroll_SP\\src\\index.js"],"cwd":"D:\\MySQLProject\\EmployeePayroll_SP","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":656257,"external":2132191,"heapTotal":91148288,"heapUsed":69945048,"rss":129331200},"pid":14060,"uid":null,"version":"v18.10.0"},"stack":"ReferenceError: use is not defined\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js:12:23)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js:4:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js:8:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts:223:12)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","timestamp":"2022-12-24T04:34:58.719Z","trace":[{"column":23,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js","function":null,"line":12,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js","function":null,"line":4,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":223,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:35:12.264Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:35:12.373Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:36:13.007Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:36:13.204Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:36:22.055Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:38:43.230Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:39:34.736Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:40:28.696Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:40:28.889Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:40:31.903Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-24T04:42:23.507Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:49:30.807Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:49:30.920Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-24T04:55:07.009Z"}
+info: Connected to the database. {"timestamp":"2022-12-24T04:55:07.083Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T13:18:49.608Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T13:18:49.866Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T13:40:44.378Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T13:40:44.653Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T13:53:35.331Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T13:53:35.397Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T13:56:52.860Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T13:56:53.004Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:20:33.656Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:20:33.939Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:21:05.144Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:21:05.216Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:21:24.411Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:21:24.493Z"}
+error: 
+    status - 500 
+    message - ReferenceError: first_name is not defined
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:35:34)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:21:26.462Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:21:42.959Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:21:43.028Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:25:31.205Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:25:31.265Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:25:40.731Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:25:40.793Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:25:45.501Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:25:45.576Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:09.696Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:09.770Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:20.906Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:20.975Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:34.096Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:34.169Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:44.044Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:44.114Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:49.904Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:49.975Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:53.530Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:53.619Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:26:58.070Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:26:58.159Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:27:02.726Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:27:02.797Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:27:33.457Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:27:33.513Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:27:36.083Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:27:36.161Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:27:57.152Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:27:57.217Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:01.099Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:01.190Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:22.759Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:22.823Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:26.444Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:26.510Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:29.129Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:29.208Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:28:47.347Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:28:47.418Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:29:03.989Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:29:04.081Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:29:14.418Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:29:14.476Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:29:27.907Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:29:27.966Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:29:30.392Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:29:30.461Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:02.902Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:02.970Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:33.697Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:33.765Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:36.564Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:36.624Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:39.037Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:39.103Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:47.335Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:47.396Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:51.136Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:51.214Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:31:59.322Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:31:59.396Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:12.294Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:12.369Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:25.043Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:25.100Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:32.467Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:32.529Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:38.844Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:38.907Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:45.169Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:45.233Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:47.695Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:47.758Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:32:58.119Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:32:58.197Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:33:01.414Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:33:01.471Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:33:04.102Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:33:04.183Z"}
+error: 
+    status - 500 
+    message - ReferenceError: jwt is not defined
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:13)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:33:09.839Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:33:22.643Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:33:22.701Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:33:25.828Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:33:25.922Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'sign')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:25)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:33:28.252Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:35:13.129Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:35:13.221Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:35:17.274Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:35:17.339Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:36:17.718Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:36:17.778Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:38:47.985Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:38:48.193Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:39:01.008Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:39:01.082Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:39:26.762Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:39:26.835Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:39:33.754Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:39:33.826Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'sign')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:38:25)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-25T14:39:46.492Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:41:44.412Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:41:44.493Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:42:27.393Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:42:27.460Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:42:30.449Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:42:30.512Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:39.546Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:39.601Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:46.393Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:46.458Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:49.072Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:49.139Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:52.176Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:52.253Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:43:59.738Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:43:59.829Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:44:04.854Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:44:04.930Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:44:24.345Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:44:24.420Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:44:39.065Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:44:39.137Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:44:54.131Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:44:54.194Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:45:09.239Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:45:09.317Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:45:41.093Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:45:41.168Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:45:46.764Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:45:46.837Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:46:02.379Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:46:02.477Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:46:25.682Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:46:25.759Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:49:03.317Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-25T14:49:05.789Z"}
+info: Connected to the database. {"timestamp":"2022-12-25T14:49:05.876Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T10:43:20.242Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T10:43:20.883Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T10:43:58.337Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T10:46:11.815Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T10:46:11.859Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T10:55:42.176Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T10:55:42.431Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T10:56:51.067Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T11:11:22.567Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T11:11:22.637Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:10:29.481Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:10:29.858Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:18:22.898Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:18:23.021Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:18:39.735Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:18:39.851Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:18:42.631Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:18:42.697Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:30:29.154Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:30:29.262Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:31:16.844Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:31:16.983Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:31:28.707Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:31:28.779Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:34:16.508Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:34:16.592Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:34:56.798Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:34:56.905Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:35:46.856Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:35:46.965Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:40:01.894Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:40:02.019Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:40:08.418Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:40:08.524Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:40:15.502Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:40:15.573Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:40:25.758Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:40:25.857Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:44:10.978Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:44:11.067Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:46:46.377Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:46:46.474Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:46:53.919Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:46:54.031Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:47:21.800Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:47:21.890Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:47:29.906Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:47:30.002Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:47:34.932Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:47:35.020Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'error_status')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:15)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T12:48:11.560Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:49:43.579Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:49:43.675Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:50:00.414Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:50:00.505Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'error_status')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:15)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T12:50:08.963Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:50:45.891Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:50:45.993Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:50:52.088Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:50:52.200Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:51:37.215Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:51:37.323Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:51:42.472Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:51:42.567Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T12:51:53.846Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T12:51:53.971Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'error_status')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:15)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T12:51:56.434Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T15:33:11.288Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T15:33:11.609Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T15:33:23.180Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T15:33:23.281Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading '0')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:12)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T15:33:30.695Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T15:33:50.808Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T15:33:50.919Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'error_status')
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\controllers\/user.controller.js:34:15)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T15:34:04.117Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T15:34:29.631Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T15:34:29.745Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:22:16.349Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:22:16.465Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:22:29.289Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:22:29.372Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:22:41.966Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:22:42.051Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:22:46.394Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:22:46.482Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:22:56.014Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:22:56.085Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:23:05.852Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:23:05.925Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:23:08.208Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:23:08.278Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:23:14.539Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:23:14.606Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:25:50.977Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:25:51.090Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:25:58.716Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:25:58.828Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:26:01.763Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:26:01.839Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:26:06.066Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:26:06.131Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:26:47.964Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:26:48.072Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:28:27.608Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:28:27.933Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:28:44.099Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:28:44.208Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-26T17:29:14.945Z"}
+info: Connected to the database. {"timestamp":"2022-12-26T17:29:15.057Z"}
+error: 
+    status - 500 
+    message - Error: data and hash arguments required
+    at Object.compare (D:\MySQLProject\EmployeePayroll_SP\node_modules\bcrypt\bcrypt.js:208:17)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\bcrypt\promises.js:29:12
+    at new Promise (<anonymous>)
+    at Object.module.exports.promise (D:\MySQLProject\EmployeePayroll_SP\node_modules\bcrypt\promises.js:20:12)
+    at Object.compare (D:\MySQLProject\EmployeePayroll_SP\node_modules\bcrypt\bcrypt.js:204:25)
+    at _callee2$ (D:\MySQLProject\EmployeePayroll_SP\src\services\/user.service.js:33:33)
+    at tryCatch (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users/login 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-26T17:31:05.277Z"}

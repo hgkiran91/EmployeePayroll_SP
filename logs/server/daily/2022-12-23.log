@@ -1,0 +1,62 @@
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T11:18:00.675Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T11:18:01.307Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:19:39.451Z"}
+error: 
+    status - 500 
+    message - ValidationError: "first_name" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:19:52.516Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:20:04.828Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\dialects\mysql\query.js:46:25)
+    at D:\MySQLProject\EmployeePayroll_SP\node_modules\sequelize\src\sequelize.js:649:28
+    at processTicksAndRejections (node:internal/process/task_queues:95:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2022-12-23T11:34:11.368Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:33.756Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:34.191Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:41.621Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:41.706Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:47.124Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:47.214Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:54.904Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:55.008Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:01:57.945Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:01:58.016Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:01.084Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:01.150Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:12.342Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:12.415Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:21.979Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:22.087Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:25.823Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:25.921Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:42.498Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:42.596Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:02:47.148Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:02:47.234Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:10:29.828Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:10:29.902Z"}
+info: Server started at http://localhost:5000/api/v1/ {"timestamp":"2022-12-23T18:10:34.512Z"}
+info: Connected to the database. {"timestamp":"2022-12-23T18:10:34.581Z"}

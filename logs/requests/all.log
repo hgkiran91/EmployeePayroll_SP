@@ -1,0 +1,176 @@
+info: ::1 - - [23/Dec/2022:11:19:39 +0000] "POST /api/v1/users HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [23/Dec/2022:11:19:52 +0000] "POST /api/v1/users HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [23/Dec/2022:11:20:04 +0000] "POST /api/v1/users HTTP/1.1" 500 77 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [23/Dec/2022:11:34:11 +0000] "POST /api/v1/users HTTP/1.1" 500 79 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [23/Dec/2022:11:35:36 +0000] "POST /api/v1/users HTTP/1.1" 200 49 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [23/Dec/2022:11:51:02 +0000] "POST /api/v1/users HTTP/1.1" 200 132 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [23/Dec/2022:11:51:44 +0000] "POST /api/v1/users HTTP/1.1" 200 126 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [23/Dec/2022:11:54:23 +0000] "POST /api/v1/users HTTP/1.1" 200 126 "-" "PostmanRuntime/7.29.2"
+
+error: uncaughtException: tou is not defined
+ReferenceError: tou is not defined
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/user.route.js:12:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/index.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\node\src\_babel-node.ts:223:12)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Sat Dec 24 2022 10:04:42 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1022154},"process":{"argv":["node","D:\\MySQLProject\\EmployeePayroll_SP\\src\\index.js"],"cwd":"D:\\MySQLProject\\EmployeePayroll_SP","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":677189,"external":2153163,"heapTotal":91148288,"heapUsed":70232552,"rss":129978368},"pid":20580,"uid":null,"version":"v18.10.0"},"stack":"ReferenceError: tou is not defined\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js:12:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js:4:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js:8:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts:223:12)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js","function":null,"line":12,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js","function":null,"line":4,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":223,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+error: uncaughtException: use is not defined
+ReferenceError: use is not defined
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/user.route.js:12:23)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\routes\/index.js:4:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Module.require (node:internal/modules/cjs/loader:1051:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\src\/index.js:8:1)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Module._compile (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:136:24)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Object.newLoader [as .js] (D:\MySQLProject\EmployeePayroll_SP\node_modules\pirates\lib\index.js:141:7)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.runMain (node:internal/modules/run_main:81:12)
+    at Object.<anonymous> (D:\MySQLProject\EmployeePayroll_SP\node_modules\@babel\node\src\_babel-node.ts:223:12)
+    at Module._compile (node:internal/modules/cjs/loader:1149:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)
+    at Module.load (node:internal/modules/cjs/loader:1027:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:868:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:23:47 {"date":"Sat Dec 24 2022 10:04:58 GMT+0530 (India Standard Time)","error":{},"exception":true,"os":{"loadavg":[0,0,0],"uptime":1022170},"process":{"argv":["node","D:\\MySQLProject\\EmployeePayroll_SP\\src\\index.js"],"cwd":"D:\\MySQLProject\\EmployeePayroll_SP","execPath":"C:\\Program Files\\nodejs\\node.exe","gid":null,"memoryUsage":{"arrayBuffers":677195,"external":2153169,"heapTotal":91148288,"heapUsed":70154584,"rss":130060288},"pid":14060,"uid":null,"version":"v18.10.0"},"stack":"ReferenceError: use is not defined\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js:12:23)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js:4:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Module.require (node:internal/modules/cjs/loader:1051:19)\n    at require (node:internal/modules/cjs/helpers:103:18)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js:8:1)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Module._compile (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:136:24)\n    at Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Object.newLoader [as .js] (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js:141:7)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.runMain (node:internal/modules/run_main:81:12)\n    at Object.<anonymous> (D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts:223:12)\n    at Module._compile (node:internal/modules/cjs/loader:1149:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1203:10)\n    at Module.load (node:internal/modules/cjs/loader:1027:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:868:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:23:47","trace":[{"column":23,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/user.route.js","function":null,"line":12,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\routes\\/index.js","function":null,"line":4,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":19,"file":"node:internal/modules/cjs/loader","function":"Module.require","line":1051,"method":"require","native":false},{"column":18,"file":"node:internal/modules/cjs/helpers","function":"require","line":103,"method":null,"native":false},{"column":1,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\src\\/index.js","function":null,"line":8,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":24,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Module._compile","line":136,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":7,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\pirates\\lib\\index.js","function":"Object.newLoader [as .js]","line":141,"method":"js]","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.runMain","line":81,"method":"runMain","native":false},{"column":12,"file":"D:\\MySQLProject\\EmployeePayroll_SP\\node_modules\\@babel\\node\\src\\_babel-node.ts","function":null,"line":223,"method":null,"native":false},{"column":14,"file":"node:internal/modules/cjs/loader","function":"Module._compile","line":1149,"method":"_compile","native":false},{"column":10,"file":"node:internal/modules/cjs/loader","function":"Module._extensions..js","line":1203,"method":".js","native":false},{"column":32,"file":"node:internal/modules/cjs/loader","function":"Module.load","line":1027,"method":"load","native":false},{"column":12,"file":"node:internal/modules/cjs/loader","function":"Module._load","line":868,"method":"_load","native":false},{"column":12,"file":"node:internal/modules/run_main","function":"Function.executeUserEntryPoint [as runMain]","line":81,"method":"executeUserEntryPoint [as runMain]","native":false},{"column":47,"file":"node:internal/main/run_main_module","function":null,"line":23,"method":null,"native":false}]}
+info: ::1 - - [24/Dec/2022:04:36:22 +0000] "POST /api/v1/users/login HTTP/1.1" 500 88 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:38:43 +0000] "POST /api/v1/users/login HTTP/1.1" 500 88 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:39:34 +0000] "POST /api/v1/users/login HTTP/1.1" 500 88 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:40:31 +0000] "POST /api/v1/users/login HTTP/1.1" 500 88 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:42:23 +0000] "POST /api/v1/users/login HTTP/1.1" 500 88 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:46:05 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:48:34 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:49:43 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:51:30 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:51:58 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [24/Dec/2022:04:55:20 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:13:19:22 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:13:52:17 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:20:37 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:21:08 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:21:26 +0000] "POST /api/v1/users/login HTTP/1.1" 500 60 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:25:52 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:26:12 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:26:23 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:33:09 +0000] "POST /api/v1/users/login HTTP/1.1" 500 53 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:33:28 +0000] "POST /api/v1/users/login HTTP/1.1" 500 87 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:36:22 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:38:51 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:39:03 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:39:46 +0000] "POST /api/v1/users/login HTTP/1.1" 500 87 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:42:32 +0000] "POST /api/v1/users/login HTTP/1.1" 200 235 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:44:07 +0000] "POST /api/v1/users/login HTTP/1.1" 200 48 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [25/Dec/2022:14:46:34 +0000] "POST /api/v1/users/login HTTP/1.1" 200 235 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Dec/2022:10:43:58 +0000] "POST /api/v1/users HTTP/1.1" 500 61 "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Dec/2022:10:45:44 +0000] "POST /api/v1/users HTTP/1.1" - - "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Dec/2022:10:48:16 +0000] "POST /api/v1/users HTTP/1.1" - - "-" "PostmanRuntime/7.29.2"
+
+info: ::1 - - [26/Dec/2022:10:56:51 +0000] "POST /api/v1/users HTTP/1.1" 500 61 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:10:57:02 +0000] "POST /api/v1/users HTTP/1.1" 201 54 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:10:59:46 +0000] "POST /api/v1/users HTTP/1.1" - - "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:12:48:11 +0000] "POST /api/v1/users/login HTTP/1.1" 500 95 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:12:50:08 +0000] "POST /api/v1/users/login HTTP/1.1" 500 95 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:12:51:56 +0000] "POST /api/v1/users/login HTTP/1.1" 500 95 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:15:33:30 +0000] "POST /api/v1/users/login HTTP/1.1" 500 84 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:15:34:04 +0000] "POST /api/v1/users/login HTTP/1.1" 500 95 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:15:34:51 +0000] "POST /api/v1/users/login HTTP/1.1" - - "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:17:29:40 +0000] "POST /api/v1/users/login HTTP/1.1" 200 458 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:17:30:12 +0000] "POST /api/v1/users/login HTTP/1.1" 200 450 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:17:31:05 +0000] "POST /api/v1/users/login HTTP/1.1" 500 67 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:17:31:35 +0000] "POST /api/v1/users/login HTTP/1.1" 200 459 "-" "PostmanRuntime/7.30.0"
+
+info: ::1 - - [26/Dec/2022:17:31:55 +0000] "POST /api/v1/users/login HTTP/1.1" 200 454 "-" "PostmanRuntime/7.30.0"
+
