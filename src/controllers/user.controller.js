@@ -11,10 +11,16 @@ import * as UserService from '../services/user.service';
 export const usersRegistration = async (req, res, next) => {
   try {
     const data = await UserService.usersRegistration(req.body);
+    let userDetails = {
+      first_name: data[0]["first_name"],
+      last_name: data[0]["lastName"],
+      email: data[0]["email"]
+    }
     if (data[0]["error_status"] == 0) {
       res.status(data[0]["statusCode"]).json({
         success: true,
-        message: data[0]["message"]
+        message: data[0]["message"],
+        data: userDetails
       })
     }
   } catch (error) {
@@ -35,6 +41,10 @@ export const userLogin = async (req, res, next) => {
       res.status(data[0]["statusCode"]).json({
         data: data,
         token: token,
+        message: data[0]["message"]
+      })
+    }else{
+      res.status(data[0]["statusCode"]).json({
         message: data[0]["message"]
       })
     }
